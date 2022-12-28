@@ -4,4 +4,5 @@ int a=10;
 Syetem.out.println("welcome to devops")
 honesty is the best policy
 i am one of them
+Syetem.out.println("welcome to new year")
 }
